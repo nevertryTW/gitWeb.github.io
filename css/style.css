@@ -1,0 +1,41 @@
+header {
+  background-color: #804040;
+}
+header .nav_pic {
+  /*max-width: 80px;*/
+  max-width: 60px;
+}
+
+header .nav-link .font-style {
+  color: #d6d6ad;
+  font-size: 18px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+#section_1 .jumbotron {
+  height: 100vh;
+  background-color: #d6d6ad;
+  margin-bottom: 0px;
+}
+
+#section_1 .container {
+  position: relative;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+#section_1 .btn {
+  color: white;
+  padding: 4px 26px;
+  border-radius: 20px;
+  margin-top: 10px;
+}
+
+#section_1 #mypic {
+  max-width: 100%;
+}
